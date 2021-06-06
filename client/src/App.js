@@ -4,7 +4,7 @@ import Home from './Components/Home/Home';
 function App() {
   return (
     <div>
-      <Header />
+      <Header is good/>
       <Home />
     </div>
   );
