@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <Header />
-      <Home />
+      <Home t5/>
     </div>
   );
 }
